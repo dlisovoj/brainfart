@@ -87,7 +87,7 @@ table:nth-of-type(3) {
 table:nth-of-type(3) th,
 table:nth-of-type(3) td {
   border: 3px solid black;
-  width: 210px;
+  width: 270px;
   height: 25px;
 }
 
